@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Houssam-95
-- 👀 I’m interested in Full stack with java and vue
-- 🌱 I’m currently learning data science
+- 👀 I’m a developper full stack Java / Vue
 - 💞️ I’m looking to collaborate on kestra
 - 📫 How to reach me houssam.developpeur.95@gmail.com
 - 😄 Pronouns: Houssam
